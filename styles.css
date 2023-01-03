@@ -11,3 +11,9 @@ h3 {
     color: brown;
     font-style: italic;
 }
+
+.nasa-pic {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
